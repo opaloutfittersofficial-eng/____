@@ -1,3 +1,4 @@
 git add images/sudais.png
 git commit -m "Add images folder and profile pic"
 git push origin main
+<img src="images/sudais.png" alt="Profile" class="profile-img">
